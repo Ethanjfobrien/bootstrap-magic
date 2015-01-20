@@ -1,4 +1,4 @@
-Bootstrap magic featuring Bootstrap 3.1
+Bootstrap magic featuring Bootstrap 3.1 -- Ethan's Fork
 =======================================
 
 Bootstrap themes generator, featuring Bootstrap 3.1 and AngularJS.
